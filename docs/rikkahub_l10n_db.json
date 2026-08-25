@@ -2079,7 +2079,7 @@
   "tool_ui_screen_time_total": "总屏幕时间",
   "tool_ui_shell": "Shell: %s",
   "tool_ui_shell_default": "Shell",
-  "tool_ui_shell_exit": "退出码：%s",
+  "tool_ui_shell_exit": "exit %s",
   "tool_ui_shell_timeout": "已超时",
   "tool_ui_speaking": "朗读: %s",
   "tool_ui_write_file": "写入: %s",
@@ -2429,7 +2429,8 @@
   "Uncaught download failure": "未捕获的下载失败",
   "No importable providers found in Cherry Studio backup": "在 Cherry Studio 备份中未找到可导入的提供商",
   "Accessibility service": "无障碍服务",
-  "All files access": "所有文件访问"
+  "All files access": "所有文件访问",
+  "The agent is working": "Agent运行中"
  },
  "humanize": {
   "android.permission.INTERNET": "访问互联网",
